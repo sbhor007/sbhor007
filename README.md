@@ -1,7 +1,7 @@
 <!-- Header with Wave Animation -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:6C5CE7&height=120&section=header&text=Hi%20👋,%20I'm%20Santosh%20Bhor&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img width="100%" fontSize="1100px" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:6C5CE7&height=120&section=header&text=Hi%20👋,%20I'm%20Santosh%20Bhor&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
-<h3 align="center">
+<h3 align="" style="font-size:100px">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+Angular+%7C+Django;Passionate+about+coding;Always+learning+new+things!&font=Fira%20Code&center=true&width=380&height=50&color=6C5CE7&vCenter=true&size=20&duration=4000&pause=1000">
 </h3>
 
@@ -9,13 +9,13 @@
 
 <!-- Connect with Me Section -->
 
-<h2 align="center">
+<h2 align="left" >
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30"> 
   Connect with Me 
   <img src="https://media.giphy.com/media/iY8CRBdQXODJSCERIr/giphy.gif" width="30">
 </h2>
 
-<p align="center">
+<p align="">
   <a href="https://instagram.com/__santosh.__007">
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
   </a>
@@ -30,44 +30,50 @@
   </a>
 </p>
 
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- Tech Stack Section -->
-<h2 align="center">
-  <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
-  Tech Stack
-</h2>
+<!-- ...existing code... -->
+  <h2 align="">
+    <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="32"> 
+    Tech Stack
+  </h2>
+<div style="display: flex;  gap: 32px; align-items: flex-start; justify-content: space-between;">
 
-<h3 align="center">🚀 Languages & Core Technologies</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" />
-</p>
+  <div style="flex: 1 1 350px; min-width: 300px;">
+    <h3 align="">🚀 Languages & Core Technologies</h3>
+    <p align="">
+      <img src="https://skillicons.dev/icons?i=java,js,ts,python&theme=dark" style="height:48px;" height="88"/>
+    </p>
+    <h3 align="">🎨 Frontend Development</h3>
+    <p align="">
+      <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind&theme=dark" style="height:48px;" height="48"/>
+    </p>
+  </div>
+  <div style="flex: 1 1 350px; min-width: 300px;">
+    <h3 align="">⚙️ Backend & Database</h3>
+    <p align="">
+      <img src="https://skillicons.dev/icons?i=django,hibernate,redis,mysql&theme=dark" style="height:48px;" height="48"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
+      <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
+    </p>
+    <h3 align="">🛠️ Development Tools</h3>
+    <p align="">
+      <img src="https://skillicons.dev/icons?i=git,github,postman,npm,maven&theme=dark" style="height:48px;" height="48"/>
+      <br><br>
+      <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"/>
+      <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
+    </p>
+  </div>
 
-<h3 align="center">🎨 Frontend Development</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=angular,html,css,tailwind&theme=dark" />
-</p>
+</div>
+<!-- ...existing code... -->
 
-<h3 align="center">⚙️ Backend & Database</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=django,hibernate,redis,mysql&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/DJANGO-REST-ff1709?style=for-the-badge&logo=django&logoColor=white&color=ff1709&labelColor=gray"/>
-  <img src="https://img.shields.io/badge/apache%20tomcat-%23F8DC75.svg?style=for-the-badge&logo=apache-tomcat&logoColor=black"/>
-</p>
-
-<h3 align="center">🛠️ Development Tools</h3>
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=git,github,postman,npm,maven&theme=dark" />
-  <br><br>
-  <img src="https://img.shields.io/badge/rxjs-%23B7178C.svg?style=for-the-badge&logo=reactivex&logoColor=white"/>
-  <img src="https://img.shields.io/badge/JWT-black?style=for-the-badge&logo=JSON%20web%20tokens"/>
-</p>
-
-<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
+<!-- <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"> -->
 
 <!-- GitHub Stats Section -->
-<h2 align="center">
+<h2 align="">
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/> 
   My GitHub Stats 
   <img src="https://media.giphy.com/media/W5eoZHPpUx9sapR0eu/giphy.gif" width="30px" alt="Git"/>
@@ -114,12 +120,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Current Focus Section -->
-<h2 align="center">
+<h2 align="">
   <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> 
   Current Focus
 </h2>
 
-<div align="center">
+<div align="">
   <table>
     <tr>
       <td align="center" width="33%">
@@ -138,12 +144,12 @@
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 
 <!-- Visitor Count Section -->
-<h2 align="center">
+<h2 align="">
   <img src="https://media.giphy.com/media/12oufCB0MyZ1Go/giphy.gif" width="50"> 
   Visitor Count
 </h2>
 
-<div align="center">
+<div align="">
   <img src="https://komarev.com/ghpvc/?username=sbhor007&style=for-the-badge&color=brightgreen&label=PROFILE+VIEWS" alt="Profile Views"/>
   <br><br>
   <a href="https://visitcount.itsvg.in">
