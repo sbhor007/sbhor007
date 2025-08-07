@@ -2,7 +2,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:FF6B6B,50:4ECDC4,100:6C5CE7&height=120&section=header&text=Hi%20👋,%20I'm%20Santosh%20Bhor&fontSize=30&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+Angular+%7C+Django;Passionate+about+coding;Always+learning+new+things!&font=Fira%20Code&center=true&width=380&height=50&color=6C5CE7&vCenter=true&size=20&duration=4000&pause=1000">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=Full+Stack+Developer;Java+%7C+Angular+%7C+Django;Passionate+about+coding;Always+learning+new+things!&font=Fira%20Code&center=true&width=955&height=50&color=6C5CE7&vCenter=true&size=30&duration=4000&pause=1000">
 </div>
 
 <br>
