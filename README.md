@@ -27,7 +27,7 @@ const santosh = {
 - 🔭 Currently working on **Full Stack Projects**
 - 🌱 Learning **Spring Boot & Cloud Technologies**
 - 💬 Ask me about **Java, Angular, Django**
-- ⚡ Fun fact: **I think I'm funny 😄**
+- ⚡ Fun fact: **I love debugging 😄**
 
 <br clear="both">
 
